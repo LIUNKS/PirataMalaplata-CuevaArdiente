@@ -8,7 +8,7 @@ extends Node2D
 
 
 # Ruta de la escena a cargar
-@export var _path_to_scene = ""
+@export var _path_to_scene = "res://scenes/game/levels/rooms/scene_3/scene_3.tscn"
 
 # Referencia al area
 @onready var _area = $Area2D
