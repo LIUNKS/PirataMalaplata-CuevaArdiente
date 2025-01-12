@@ -27,7 +27,7 @@
 
 ## Demo del juego
 
-<p align="center"> <video src="video/video.mp4" controls width="600"><a href="assets/videos/demo.mp4">Descarga el video aquí</a>. </video> </p>
+https://github.com/user-attachments/assets/b9819402-136d-4188-a0cf-f8d761a667fa
 
 ## Contribuciones
 
